@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+Pillow
+tensorflow==2.15.0
+python-jose
+passlib[bcrypt]
